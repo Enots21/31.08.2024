@@ -19,7 +19,7 @@ age = 21
 print("Age:",age)
 #new_age = 18
 #print("New Age:",new_age)
-age = 22
+age = age + 17
 print("New Age:",age)# в описаний не было написанно то что я должен создать новую перменную
 is_student = 1<2
 print("Is Student:", is_student)#bool(is_student and name)
